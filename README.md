@@ -34,11 +34,11 @@ One more cool thing: I ran every image in the WeRateDogs Twitter archive through
 One can do this project in jupyter notebook using python 3.x But one has to install the following python packages to wrangle dataset and query twitter api.
 
 > - pandas
-  - NumPy
-  - requests
-  - tweepy
-  - json
-  - sqlalchemy
+> - NumPy
+> - requests
+> - tweepy
+> - json
+> - sqlalchemy
   
 <div id="steps">
   
