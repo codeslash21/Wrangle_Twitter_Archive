@@ -1,4 +1,4 @@
-# Wrangle_Twitter_Archive
+# Wrangle Twitter Archive
 
 ## Table of contents:
 
@@ -10,7 +10,6 @@
 <div id="intro>
          
 ## Introduction:
-
 In this project we wrangle the tweet archive of Twitter user @dog_rates, also known as <a href="https://en.wikipedia.org/wiki/WeRateDogs"> WeRateDogs</a>. WeRateDogs is a Twitter account that rates people's dogs with a humorous comment about the dog. They rate the dogs almost
 always with a denominator of 10. But numerators?? Most of them are greater than 10. But WHY??? WeRateDogs believes every dog is beautiful and almost all dogs deserve 10 and sometimes more than that. WeRateDogs has over 8 million followers and has received international media coverage. Our goal is to wrangle WeRateDogs Twitter data to create interesting and trustworthy analyses and visualizations.
 
