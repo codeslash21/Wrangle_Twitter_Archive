@@ -9,7 +9,7 @@
 
 <div id="intro>
          
-</br>
+</div>
 ## Introduction:
 
 In this project we wrangle the tweet archive of Twitter user @dog_rates, also known as <a href="https://en.wikipedia.org/wiki/WeRateDogs"> WeRateDogs</a>. WeRateDogs is a Twitter account that rates people's dogs with a humorous comment about the dog. They rate the dogs almost
